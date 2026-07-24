@@ -1,2 +1,3 @@
-<?phpecho "my name is alien";
+<?php
+echo "my name is alien";
 ?>
